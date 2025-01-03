@@ -54,6 +54,8 @@ This project aims to build a data science model to analyze key factors that infl
   - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`, `tensorflow`.
 - **Jupyter Notebook**: For interactive analysis and visualization.
 - **Power BI/Tableau**: For creating professional-grade visualizations (optional).
+## Results
+- ![Reults of this Data ](https://github.com/Zem-0/Data-Science-Model-for-US-housing-trends-/blob/main/Screenshot%202025-01-03%20204104.png)
 
 ## Expected Deliverables
 1. Cleaned and preprocessed datasets ready for analysis.
